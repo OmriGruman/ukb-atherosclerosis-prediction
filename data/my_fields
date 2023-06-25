@@ -1,0 +1,521 @@
+# 100054 - Physical activity
+
+1100	Drive faster than motorway speed limit
+2634	Duration of heavy DIY
+1021	Duration of light DIY
+894	Duration of moderate activity
+10962	Duration of moderate physical activity (pilot)
+3647	Duration of other exercises
+1001	Duration of strenuous sports
+914	Duration of vigorous activity
+10971	Duration of vigorous physical activity (pilot)
+874	Duration of walks
+10953	Duration of walks (pilot)
+981	Duration walking for pleasure
+2624	Frequency of heavy DIY in last 4 weeks
+1011	Frequency of light DIY in last 4 weeks
+3637	Frequency of other exercises in last 4 weeks
+943	Frequency of stair climbing in last 4 weeks
+991	Frequency of strenuous sports in last 4 weeks
+971	Frequency of walking for pleasure in last 4 weeks
+884	Number of days/week of moderate physical activity 10+ minutes
+904	Number of days/week of vigorous physical activity 10+ minutes
+864	Number of days/week walked 10+ minutes
+1090	Time spent driving
+1080	Time spent using computer
+1070	Time spent watching television (TV)
+6164	Types of physical activity in last 4 weeks
+6162	Types of transport used (excluding work)
+924	Usual walking pace
+
+# 100057 - Sleep
+
+1160	Sleep duration
+1170	Getting up in morning
+1180	Morning/evening person (chronotype)
+1190	Nap during day
+1200	Sleeplessness / insomnia
+1210	Snoring
+1220	Daytime dozing / sleeping
+
+# 100058 - Smoking
+
+20160	Ever smoked
+20162	Pack years adult smoking as proportion of life span exposed to smoking
+20161	Pack years of smoking
+10895	Light smokers, at least 100 smokes in lifetime (pilot)
+20116	Smoking status
+1239	Current tobacco smoking
+1249	Past tobacco smoking
+2644	Light smokers, at least 100 smokes in lifetime
+3436	Age started smoking in current smokers
+3446	Type of tobacco currently smoked
+5959	Previously smoked cigarettes on most/all days
+3456	Number of cigarettes currently smoked daily (current cigarette smokers)
+6194	Age stopped smoking cigarettes (current cigar/pipe or previous cigarette smoker)
+6183	Number of cigarettes previously smoked daily (current cigar/pipe smokers)
+3466	Time from waking to first cigarette
+3476	Difficulty not smoking for 1 day
+3486	Ever tried to stop smoking
+3496	Wants to stop smoking
+3506	Smoking compared to 10 years previous
+6158	Why reduced smoking
+2867	Age started smoking in former smokers
+2877	Type of tobacco previously smoked
+2887	Number of cigarettes previously smoked daily
+2897	Age stopped smoking
+2907	Ever stopped smoking for 6+ months
+10827	Ever stopped smoking for 6+ months (pilot)
+6157	Why stopped smoking
+10115	Why stopped smoking (pilot)
+2926	Number of unsuccessful stop-smoking attempts
+2936	Likelihood of resuming smoking
+1259	Smoking/smokers in household
+1269	Exposure to tobacco smoke at home
+1279	Exposure to tobacco smoke outside home
+
+# 100052 - Diet
+
+1289	Cooked vegetable intake
+1299	Salad / raw vegetable intake
+1309	Fresh fruit intake
+1319	Dried fruit intake
+1329	Oily fish intake
+1339	Non-oily fish intake
+1349	Processed meat intake
+1359	Poultry intake
+1369	Beef intake
+1379	Lamb/mutton intake
+1389	Pork intake
+3680	Age when last ate meat
+6144	Never eat eggs, dairy, wheat, sugar
+10855	Never eat eggs, dairy, wheat, sugar (pilot)
+1408	Cheese intake
+1418	Milk type used
+1428	Spread type
+2654	Non-butter spread type details
+10767	Spread type (pilot)
+1438	Bread intake
+1448	Bread type
+10776	Bread type/intake (pilot)
+1458	Cereal intake
+1468	Cereal type
+1478	Salt added to food
+1488	Tea intake
+1498	Coffee intake
+1508	Coffee type
+1518	Hot drink temperature
+1528	Water intake
+1538	Major dietary changes in the last 5 years
+1548	Variation in diet
+10912	Variation in diet (pilot)
+
+# 100051 - Alcohol
+
+20117	Alcohol drinker status
+1558	Alcohol intake frequency.
+3731	Former alcohol drinker
+4407	Average monthly red wine intake
+4418	Average monthly champagne plus white wine intake
+4429	Average monthly beer plus cider intake
+4440	Average monthly spirits intake
+4451	Average monthly fortified wine intake
+4462	Average monthly intake of other alcoholic drinks
+1568	Average weekly red wine intake
+1578	Average weekly champagne plus white wine intake
+1588	Average weekly beer plus cider intake
+1598	Average weekly spirits intake
+1608	Average weekly fortified wine intake
+5364	Average weekly intake of other alcoholic drinks
+1618	Alcohol usually taken with meals
+1628	Alcohol intake versus 10 years previously
+2664	Reason for reducing amount of alcohol drunk
+10818	Reason for reducing amount of alcohol drunk (pilot)
+3859	Reason former drinker stopped drinking alcohol
+10853	Reason former drinker stopped drinking alcohol (pilot)
+
+# 100034 - Family history
+
+20107	Illnesses of father
+20110	Illnesses of mother
+20111	Illnesses of siblings
+
+# 100039 - Chest pain
+
+2335	Chest pain or discomfort
+3606	Chest pain or discomfort walking normally
+3616	Chest pain due to walking ceases when standing still
+3751	Chest pain or discomfort when walking uphill or hurrying
+
+# 100011 - Blood pressure
+
+36	Blood pressure device ID
+37	Blood pressure manual sphygmomanometer device ID
+4079	Diastolic blood pressure, automated reading
+94	Diastolic blood pressure, manual reading
+4081	Method of measuring blood pressure
+95	Pulse rate (during blood-pressure measurement)
+102	Pulse rate, automated reading
+4080	Systolic blood pressure, automated reading
+93	Systolic blood pressure, manual reading
+96	Time since interview start at which blood pressure screen(s) shown
+
+# 100007 - Arterial stiffness
+
+20051	Reason for skipping arterial stiffness
+4204	Absence of notch position in the pulse waveform
+4136	Arterial pulse-wave stiffness device ID
+4206	Arterial stiffness device ID
+4199	Position of pulse wave notch
+4198	Position of the pulse wave peak
+4200	Position of the shoulder on the pulse waveform
+4194	Pulse rate
+21021	Pulse wave Arterial Stiffness index
+4196	Pulse wave peak to peak time
+4205	Pulse wave pressure versus time response curve
+4195	Pulse wave reflection index
+4207	Pulse wave velocity (manual entry)
+4186	Stiffness method
+
+# 100010 - Body size measures
+
+20046	Reason for skipping hip measurement
+20048	Reason for skipping sitting height
+20047	Reason for skipping standing height
+20045	Reason for skipping waist
+20041	Reason for skipping weight
+12144	Height
+12143	Weight (pre-imaging)
+48	Waist circumference
+21002	Weight
+21001	Body mass index (BMI)
+49	Hip circumference
+44	Tape measure device ID
+50	Standing height
+39	Height measure device ID
+51	Seated height
+20015	Sitting height
+3077	Seating box height
+41	Seating box device ID
+3160	Weight, manual entry
+21	Weight method
+40	Manual scales device ID
+
+# 100081 - Blood count
+
+30160	Basophill count
+30220	Basophill percentage
+30150	Eosinophill count
+30210	Eosinophill percentage
+30030	Haematocrit percentage
+30020	Haemoglobin concentration
+30300	High light scatter reticulocyte count
+30290	High light scatter reticulocyte percentage
+30280	Immature reticulocyte fraction
+30120	Lymphocyte count
+30180	Lymphocyte percentage
+30050	Mean corpuscular haemoglobin
+30060	Mean corpuscular haemoglobin concentration
+30040	Mean corpuscular volume
+30100	Mean platelet (thrombocyte) volume
+30260	Mean reticulocyte volume
+30270	Mean sphered cell volume
+30130	Monocyte count
+30190	Monocyte percentage
+30140	Neutrophill count
+30200	Neutrophill percentage
+30170	Nucleated red blood cell count
+30230	Nucleated red blood cell percentage
+30080	Platelet count
+30090	Platelet crit
+30110	Platelet distribution width
+30010	Red blood cell (erythrocyte) count
+30070	Red blood cell (erythrocyte) distribution width
+30250	Reticulocyte count
+30240	Reticulocyte percentage
+30000	White blood cell (leukocyte) count
+
+# 17518 - Blood biochemistry
+
+30620	Alanine aminotransferase
+30600	Albumin
+30610	Alkaline phosphatase
+30630	Apolipoprotein A
+30640	Apolipoprotein B
+30650	Aspartate aminotransferase
+30710	C-reactive protein
+30680	Calcium
+30690	Cholesterol
+30700	Creatinine
+30720	Cystatin C
+30660	Direct bilirubin
+30730	Gamma glutamyltransferase
+30740	Glucose
+30750	Glycated haemoglobin (HbA1c)
+30760	HDL cholesterol
+30770	IGF-1
+30780	LDL direct
+30790	Lipoprotein A
+30800	Oestradiol
+30810	Phosphate
+30820	Rheumatoid factor
+30830	SHBG
+30850	Testosterone
+30840	Total bilirubin
+30860	Total protein
+30870	Triglycerides
+30880	Urate
+30670	Urea
+30890	Vitamin D
+
+# 220 - NMR metabolomics
+
+23474	3-Hydroxybutyrate
+23475	Acetate
+23476	Acetoacetate
+23477	Acetone
+23460	Alanine
+23479	Albumin
+23440	Apolipoprotein A1
+23439	Apolipoprotein B
+23441	Apolipoprotein B to Apolipoprotein A1 ratio
+23433	Average Diameter for HDL Particles
+23432	Average Diameter for LDL Particles
+23431	Average Diameter for VLDL Particles
+23484	Cholesterol in Chylomicrons and Extremely Large VLDL
+23526	Cholesterol in IDL
+23561	Cholesterol in Large HDL
+23533	Cholesterol in Large LDL
+23498	Cholesterol in Large VLDL
+23568	Cholesterol in Medium HDL
+23540	Cholesterol in Medium LDL
+23505	Cholesterol in Medium VLDL
+23575	Cholesterol in Small HDL
+23547	Cholesterol in Small LDL
+23512	Cholesterol in Small VLDL
+23554	Cholesterol in Very Large HDL
+23491	Cholesterol in Very Large VLDL
+23519	Cholesterol in Very Small VLDL
+23580	Cholesterol to Total Lipids in Chylomicrons and Extremely Large VLDL percentage
+23610	Cholesterol to Total Lipids in IDL percentage
+23635	Cholesterol to Total Lipids in Large HDL percentage
+23615	Cholesterol to Total Lipids in Large LDL percentage
+23590	Cholesterol to Total Lipids in Large VLDL percentage
+23640	Cholesterol to Total Lipids in Medium HDL percentage
+23620	Cholesterol to Total Lipids in Medium LDL percentage
+23595	Cholesterol to Total Lipids in Medium VLDL percentage
+23645	Cholesterol to Total Lipids in Small HDL percentage
+23625	Cholesterol to Total Lipids in Small LDL percentage
+23600	Cholesterol to Total Lipids in Small VLDL percentage
+23630	Cholesterol to Total Lipids in Very Large HDL percentage
+23585	Cholesterol to Total Lipids in Very Large VLDL percentage
+23605	Cholesterol to Total Lipids in Very Small VLDL percentage
+23485	Cholesteryl Esters in Chylomicrons and Extremely Large VLDL
+23418	Cholesteryl Esters in HDL
+23527	Cholesteryl Esters in IDL
+23417	Cholesteryl Esters in LDL
+23562	Cholesteryl Esters in Large HDL
+23534	Cholesteryl Esters in Large LDL
+23499	Cholesteryl Esters in Large VLDL
+23569	Cholesteryl Esters in Medium HDL
+23541	Cholesteryl Esters in Medium LDL
+23506	Cholesteryl Esters in Medium VLDL
+23576	Cholesteryl Esters in Small HDL
+23548	Cholesteryl Esters in Small LDL
+23513	Cholesteryl Esters in Small VLDL
+23416	Cholesteryl Esters in VLDL
+23555	Cholesteryl Esters in Very Large HDL
+23492	Cholesteryl Esters in Very Large VLDL
+23520	Cholesteryl Esters in Very Small VLDL
+23581	Cholesteryl Esters to Total Lipids in Chylomicrons and Extremely Large VLDL percentage
+23611	Cholesteryl Esters to Total Lipids in IDL percentage
+23636	Cholesteryl Esters to Total Lipids in Large HDL percentage
+23616	Cholesteryl Esters to Total Lipids in Large LDL percentage
+23591	Cholesteryl Esters to Total Lipids in Large VLDL percentage
+23641	Cholesteryl Esters to Total Lipids in Medium HDL percentage
+23621	Cholesteryl Esters to Total Lipids in Medium LDL percentage
+23596	Cholesteryl Esters to Total Lipids in Medium VLDL percentage
+23646	Cholesteryl Esters to Total Lipids in Small HDL percentage
+23626	Cholesteryl Esters to Total Lipids in Small LDL percentage
+23601	Cholesteryl Esters to Total Lipids in Small VLDL percentage
+23631	Cholesteryl Esters to Total Lipids in Very Large HDL percentage
+23586	Cholesteryl Esters to Total Lipids in Very Large VLDL percentage
+23606	Cholesteryl Esters to Total Lipids in Very Small VLDL percentage
+23473	Citrate
+23404	Clinical LDL Cholesterol
+23481	Concentration of Chylomicrons and Extremely Large VLDL Particles
+23430	Concentration of HDL Particles
+23523	Concentration of IDL Particles
+23429	Concentration of LDL Particles
+23558	Concentration of Large HDL Particles
+23530	Concentration of Large LDL Particles
+23495	Concentration of Large VLDL Particles
+23565	Concentration of Medium HDL Particles
+23537	Concentration of Medium LDL Particles
+23502	Concentration of Medium VLDL Particles
+23572	Concentration of Small HDL Particles
+23544	Concentration of Small LDL Particles
+23509	Concentration of Small VLDL Particles
+23428	Concentration of VLDL Particles
+23551	Concentration of Very Large HDL Particles
+23488	Concentration of Very Large VLDL Particles
+23516	Concentration of Very Small VLDL Particles
+23478	Creatinine
+23443	Degree of Unsaturation
+23450	Docosahexaenoic Acid
+23457	Docosahexaenoic Acid to Total Fatty Acids percentage
+23486	Free Cholesterol in Chylomicrons and Extremely Large VLDL
+23422	Free Cholesterol in HDL
+23528	Free Cholesterol in IDL
+23421	Free Cholesterol in LDL
+23563	Free Cholesterol in Large HDL
+23535	Free Cholesterol in Large LDL
+23500	Free Cholesterol in Large VLDL
+23570	Free Cholesterol in Medium HDL
+23542	Free Cholesterol in Medium LDL
+23507	Free Cholesterol in Medium VLDL
+23577	Free Cholesterol in Small HDL
+23549	Free Cholesterol in Small LDL
+23514	Free Cholesterol in Small VLDL
+23420	Free Cholesterol in VLDL
+23556	Free Cholesterol in Very Large HDL
+23493	Free Cholesterol in Very Large VLDL
+23521	Free Cholesterol in Very Small VLDL
+23582	Free Cholesterol to Total Lipids in Chylomicrons and Extremely Large VLDL percentage
+23612	Free Cholesterol to Total Lipids in IDL percentage
+23637	Free Cholesterol to Total Lipids in Large HDL percentage
+23617	Free Cholesterol to Total Lipids in Large LDL percentage
+23592	Free Cholesterol to Total Lipids in Large VLDL percentage
+23642	Free Cholesterol to Total Lipids in Medium HDL percentage
+23622	Free Cholesterol to Total Lipids in Medium LDL percentage
+23597	Free Cholesterol to Total Lipids in Medium VLDL percentage
+23647	Free Cholesterol to Total Lipids in Small HDL percentage
+23627	Free Cholesterol to Total Lipids in Small LDL percentage
+23602	Free Cholesterol to Total Lipids in Small VLDL percentage
+23632	Free Cholesterol to Total Lipids in Very Large HDL percentage
+23587	Free Cholesterol to Total Lipids in Very Large VLDL percentage
+23607	Free Cholesterol to Total Lipids in Very Small VLDL percentage
+23470	Glucose
+23461	Glutamine
+23462	Glycine
+23480	Glycoprotein Acetyls
+23406	HDL Cholesterol
+23463	Histidine
+23465	Isoleucine
+23405	LDL Cholesterol
+23471	Lactate
+23466	Leucine
+23449	Linoleic Acid
+23456	Linoleic Acid to Total Fatty Acids percentage
+23447	Monounsaturated Fatty Acids
+23454	Monounsaturated Fatty Acids to Total Fatty Acids percentage
+23444	Omega-3 Fatty Acids
+23451	Omega-3 Fatty Acids to Total Fatty Acids percentage
+23445	Omega-6 Fatty Acids
+23459	Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio
+23452	Omega-6 Fatty Acids to Total Fatty Acids percentage
+23468	Phenylalanine
+23437	Phosphatidylcholines
+23434	Phosphoglycerides
+23483	Phospholipids in Chylomicrons and Extremely Large VLDL
+23414	Phospholipids in HDL
+23525	Phospholipids in IDL
+23413	Phospholipids in LDL
+23560	Phospholipids in Large HDL
+23532	Phospholipids in Large LDL
+23497	Phospholipids in Large VLDL
+23567	Phospholipids in Medium HDL
+23539	Phospholipids in Medium LDL
+23504	Phospholipids in Medium VLDL
+23574	Phospholipids in Small HDL
+23546	Phospholipids in Small LDL
+23511	Phospholipids in Small VLDL
+23412	Phospholipids in VLDL
+23553	Phospholipids in Very Large HDL
+23490	Phospholipids in Very Large VLDL
+23518	Phospholipids in Very Small VLDL
+23579	Phospholipids to Total Lipids in Chylomicrons and Extremely Large VLDL percentage
+23609	Phospholipids to Total Lipids in IDL percentage
+23634	Phospholipids to Total Lipids in Large HDL percentage
+23614	Phospholipids to Total Lipids in Large LDL percentage
+23589	Phospholipids to Total Lipids in Large VLDL percentage
+23639	Phospholipids to Total Lipids in Medium HDL percentage
+23619	Phospholipids to Total Lipids in Medium LDL percentage
+23594	Phospholipids to Total Lipids in Medium VLDL percentage
+23644	Phospholipids to Total Lipids in Small HDL percentage
+23624	Phospholipids to Total Lipids in Small LDL percentage
+23599	Phospholipids to Total Lipids in Small VLDL percentage
+23629	Phospholipids to Total Lipids in Very Large HDL percentage
+23584	Phospholipids to Total Lipids in Very Large VLDL percentage
+23604	Phospholipids to Total Lipids in Very Small VLDL percentage
+23446	Polyunsaturated Fatty Acids
+23458	Polyunsaturated Fatty Acids to Monounsaturated Fatty Acids ratio
+23453	Polyunsaturated Fatty Acids to Total Fatty Acids percentage
+23472	Pyruvate
+23402	Remnant Cholesterol (Non-HDL, Non-LDL -Cholesterol)
+23448	Saturated Fatty Acids
+23455	Saturated Fatty Acids to Total Fatty Acids percentage
+23438	Sphingomyelins
+23400	Total Cholesterol
+23401	Total Cholesterol Minus HDL-C
+23436	Total Cholines
+23464	Total Concentration of Branched-Chain Amino Acids (Leucine + Isoleucine + Valine)
+23427	Total Concentration of Lipoprotein Particles
+23415	Total Esterified Cholesterol
+23442	Total Fatty Acids
+23419	Total Free Cholesterol
+23482	Total Lipids in Chylomicrons and Extremely Large VLDL
+23426	Total Lipids in HDL
+23524	Total Lipids in IDL
+23425	Total Lipids in LDL
+23559	Total Lipids in Large HDL
+23531	Total Lipids in Large LDL
+23496	Total Lipids in Large VLDL
+23423	Total Lipids in Lipoprotein Particles
+23566	Total Lipids in Medium HDL
+23538	Total Lipids in Medium LDL
+23503	Total Lipids in Medium VLDL
+23573	Total Lipids in Small HDL
+23545	Total Lipids in Small LDL
+23510	Total Lipids in Small VLDL
+23424	Total Lipids in VLDL
+23552	Total Lipids in Very Large HDL
+23489	Total Lipids in Very Large VLDL
+23517	Total Lipids in Very Small VLDL
+23411	Total Phospholipids in Lipoprotein Particles
+23407	Total Triglycerides
+23487	Triglycerides in Chylomicrons and Extremely Large VLDL
+23410	Triglycerides in HDL
+23529	Triglycerides in IDL
+23409	Triglycerides in LDL
+23564	Triglycerides in Large HDL
+23536	Triglycerides in Large LDL
+23501	Triglycerides in Large VLDL
+23571	Triglycerides in Medium HDL
+23543	Triglycerides in Medium LDL
+23508	Triglycerides in Medium VLDL
+23578	Triglycerides in Small HDL
+23550	Triglycerides in Small LDL
+23515	Triglycerides in Small VLDL
+23408	Triglycerides in VLDL
+23557	Triglycerides in Very Large HDL
+23494	Triglycerides in Very Large VLDL
+23522	Triglycerides in Very Small VLDL
+23435	Triglycerides to Phosphoglycerides ratio
+23583	Triglycerides to Total Lipids in Chylomicrons and Extremely Large VLDL percentage
+23613	Triglycerides to Total Lipids in IDL percentage
+23638	Triglycerides to Total Lipids in Large HDL percentage
+23618	Triglycerides to Total Lipids in Large LDL percentage
+23593	Triglycerides to Total Lipids in Large VLDL percentage
+23643	Triglycerides to Total Lipids in Medium HDL percentage
+23623	Triglycerides to Total Lipids in Medium LDL percentage
+23598	Triglycerides to Total Lipids in Medium VLDL percentage
+23648	Triglycerides to Total Lipids in Small HDL percentage
+23628	Triglycerides to Total Lipids in Small LDL percentage
+23603	Triglycerides to Total Lipids in Small VLDL percentage
+23633	Triglycerides to Total Lipids in Very Large HDL percentage
+23588	Triglycerides to Total Lipids in Very Large VLDL percentage
+23608	Triglycerides to Total Lipids in Very Small VLDL percentage
+23469	Tyrosine
+23403	VLDL Cholesterol
+23467	Valine
