@@ -1,0 +1,10 @@
+{
+	"Physical activity": {
+		"864-0.0": "Number of days/week walked 10+ minutes",
+		"874-0.0": "Duration of walks",
+		"884-0.0": "Number of days/week of moderate physical activity 10+ minutes",
+		"894-0.0": "Duration of moderate activity",
+		"904-0.0": "Number of days/week of vigorous physical activity 10+ minutes",
+		"914-0.0": "Duration of vigorous activity"
+	}
+}

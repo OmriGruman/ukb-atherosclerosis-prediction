@@ -1,0 +1,225 @@
+# 100054 - Physical activity
+
+1100	Drive faster than motorway speed limit	nominal
+2634	Duration of heavy DIY	ordinal
+1021	Duration of light DIY	ordinal
+894	Duration of moderate activity	number
+3647	Duration of other exercises	ordinal
+1001	Duration of strenuous sports	ordinal
+914	Duration of vigorous activity	number
+874	Duration of walks	number
+981	Duration walking for pleasure	ordinal
+2624	Frequency of heavy DIY in last 4 weeks	ordinal
+1011	Frequency of light DIY in last 4 weeks	ordinal
+3637	Frequency of other exercises in last 4 weeks	ordinal
+943	Frequency of stair climbing in last 4 weeks	ordinal
+991	Frequency of strenuous sports in last 4 weeks	ordinal
+971	Frequency of walking for pleasure in last 4 weeks	ordinal
+884	Number of days/week of moderate physical activity 10+ minutes	ordinal
+904	Number of days/week of vigorous physical activity 10+ minutes	ordinal
+864	Number of days/week walked 10+ minutes	ordinal
+1090	Time spent driving	number
+1080	Time spent using computer	number
+1070	Time spent watching television (TV)	number
+6164	Types of physical activity in last 4 weeks	nominal
+6162	Types of transport used (excluding work)	nominal
+924	Usual walking pace	ordinal
+
+# 100057 - Sleep
+
+1160	Sleep duration	number
+1170	Getting up in morning	ordinal
+1180	Morning/evening person (chronotype)	ordinal
+1190	Nap during day	ordinal
+1200	Sleeplessness / insomnia	ordinal
+1210	Snoring	nominal
+1220	Daytime dozing / sleeping	ordinal
+
+# 100058 - Smoking
+
+20160	Ever smoked	nominal
+20162	Pack years adult smoking as proportion of life span exposed to smoking	number
+20161	Pack years of smoking	number
+20116	Smoking status	nominal
+1239	Current tobacco smoking	nominal
+1249	Past tobacco smoking	ordinal
+2644	Light smokers, at least 100 smokes in lifetime	nominal
+3436	Age started smoking in current smokers	number
+3456	Number of cigarettes currently smoked daily (current cigarette smokers)	number
+3466	Time from waking to first cigarette	ordinal
+3476	Difficulty not smoking for 1 day	ordinal
+3486	Ever tried to stop smoking	nominal
+3496	Wants to stop smoking	ordinal
+3506	Smoking compared to 10 years previous	ordinal
+6158	Why reduced smoking	nominal
+2867	Age started smoking in former smokers	number
+2877	Type of tobacco previously smoked	nominal
+2887	Number of cigarettes previously smoked daily	number
+2897	Age stopped smoking	number
+2907	Ever stopped smoking for 6+ months	nominal
+6157	Why stopped smoking	nominal
+2926	Number of unsuccessful stop-smoking attempts	number
+2936	Likelihood of resuming smoking	ordinal
+1259	Smoking/smokers in household	ordinal
+1269	Exposure to tobacco smoke at home	number
+1279	Exposure to tobacco smoke outside home	number
+
+# 100052 - Diet
+
+1289	Cooked vegetable intake	number
+1299	Salad / raw vegetable intake	number
+1309	Fresh fruit intake	number
+1319	Dried fruit intake	number
+1329	Oily fish intake	ordinal
+1339	Non-oily fish intake	ordinal
+1349	Processed meat intake	ordinal
+1359	Poultry intake	ordinal
+1369	Beef intake	ordinal
+1379	Lamb/mutton intake	ordinal
+1389	Pork intake	ordinal
+3680	Age when last ate meat	number
+1408	Cheese intake	ordinal
+1418	Milk type used	nominal
+1428	Spread type	nominal
+2654	Non-butter spread type details	nominal
+1438	Bread intake	number
+1448	Bread type	nominal
+1458	Cereal intake	number
+1468	Cereal type	number
+1478	Salt added to food	ordinal
+1488	Tea intake	number
+1498	Coffee intake	number
+1508	Coffee type	nominal
+1518	Hot drink temperature	ordinal
+1528	Water intake	number
+1538	Major dietary changes in the last 5 years	nominal
+1548	Variation in diet	ordinal
+
+# 100051 - Alcohol
+
+20117	Alcohol drinker status	nominal
+1558	Alcohol intake frequency	ordinal
+3731	Former alcohol drinker	nominal
+4407	Average monthly red wine intake	number
+4418	Average monthly champagne plus white wine intake	number
+4429	Average monthly beer plus cider intake	number
+4440	Average monthly spirits intake	number
+4451	Average monthly fortified wine intake	number
+4462	Average monthly intake of other alcoholic drinks	number
+1568	Average weekly red wine intake	number
+1578	Average weekly champagne plus white wine intake	number
+1588	Average weekly beer plus cider intake	number
+1598	Average weekly spirits intake	number
+1608	Average weekly fortified wine intake	number
+5364	Average weekly intake of other alcoholic drinks	number
+1618	Alcohol usually taken with meals	nominal
+1628	Alcohol intake versus 10 years previously	ordinal
+2664	Reason for reducing amount of alcohol drunk	nominal
+3859	Reason former drinker stopped drinking alcohol	nominal
+
+# 100039 - Chest pain
+
+2335	Chest pain or discomfort	nominal
+3606	Chest pain or discomfort walking normally	nominal
+3616	Chest pain due to walking ceases when standing still	nominal
+3751	Chest pain or discomfort when walking uphill or hurrying	nominal
+
+# 100011 - Blood pressure
+
+4079	Diastolic blood pressure, automated reading	number
+94	Diastolic blood pressure, manual reading	number
+4081	Method of measuring blood pressure	nominal
+95	Pulse rate (during blood-pressure measurement)	number
+102	Pulse rate, automated reading	number
+4080	Systolic blood pressure, automated reading	number
+93	Systolic blood pressure, manual reading	number
+96	Time since interview start at which blood pressure screen(s) shown	number
+
+# 100007 - Arterial stiffness
+
+4204	Absence of notch position in the pulse waveform	nominal
+4199	Position of pulse wave notch	number
+4198	Position of the pulse wave peak	number
+4200	Position of the shoulder on the pulse waveform	number
+4194	Pulse rate	number
+21021	Pulse wave Arterial Stiffness index	number
+4196	Pulse wave peak to peak time	number
+4195	Pulse wave reflection index	number
+
+# 100010 - Body size measures
+
+48	Waist circumference	number
+21002	Weight	number
+21001	Body mass index (BMI)	number
+49	Hip circumference	number
+50	Standing height	number
+51	Seated height	number
+20015	Sitting height	number
+3077	Seating box height	number
+
+# 100081 - Blood count
+
+30160	Basophill count	number
+30220	Basophill percentage	number
+30150	Eosinophill count	number
+30210	Eosinophill percentage	number
+30030	Haematocrit percentage	number
+30020	Haemoglobin concentration	number
+30300	High light scatter reticulocyte count	number
+30290	High light scatter reticulocyte percentage	number
+30280	Immature reticulocyte fraction	number
+30120	Lymphocyte count	number
+30180	Lymphocyte percentage	number
+30050	Mean corpuscular haemoglobin	number
+30060	Mean corpuscular haemoglobin concentration	number
+30040	Mean corpuscular volume	number
+30100	Mean platelet (thrombocyte) volume	number
+30260	Mean reticulocyte volume	number
+30270	Mean sphered cell volume	number
+30130	Monocyte count	number
+30190	Monocyte percentage	number
+30140	Neutrophill count	number
+30200	Neutrophill percentage	number
+30170	Nucleated red blood cell count	number
+30230	Nucleated red blood cell percentage	number
+30080	Platelet count	number
+30090	Platelet crit	number
+30110	Platelet distribution width	number
+30010	Red blood cell (erythrocyte) count	number
+30070	Red blood cell (erythrocyte) distribution width	number
+30250	Reticulocyte count	number
+30240	Reticulocyte percentage	number
+30000	White blood cell (leukocyte) count	number
+
+# 17518 - Blood biochemistry
+
+30620	Alanine aminotransferase	number
+30600	Albumin	number
+30610	Alkaline phosphatase	number
+30630	Apolipoprotein A	number
+30640	Apolipoprotein B	number
+30650	Aspartate aminotransferase	number
+30710	C-reactive protein	number
+30680	Calcium	number
+30690	Cholesterol	number
+30700	Creatinine	number
+30720	Cystatin C	number
+30660	Direct bilirubin	number
+30730	Gamma glutamyltransferase	number
+30740	Glucose	number
+30750	Glycated haemoglobin (HbA1c)	number
+30760	HDL cholesterol	number
+30770	IGF-1	number
+30780	LDL direct	number
+30790	Lipoprotein A	number
+30800	Oestradiol	number
+30810	Phosphate	number
+30820	Rheumatoid factor	number
+30830	SHBG	number
+30850	Testosterone	number
+30840	Total bilirubin	number
+30860	Total protein	number
+30870	Triglycerides	number
+30880	Urate	number
+30670	Urea	number
+30890	Vitamin D	number
